@@ -1,6 +1,6 @@
-//Problem Statement: Given an integer,n, print its first 10 multiples. Each multiple n x i (where 1<=i<=10) should be printed on a new line in the form: n x i = result.
+/* //Problem Statement: Given an integer,n, print its first 10 multiples. Each multiple n x i (where 1<=i<=10) should be printed on a new line in the form: n x i = result.
 //Language Used: Java
-//------------------------------------------------------------------------------
+//------------------------------------------------------------------------------ */
 
 import java.io.*;
 import java.math.*;
