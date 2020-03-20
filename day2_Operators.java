@@ -1,4 +1,4 @@
-//Problem Statement: 
+/* //Problem Statement: 
 Task-
 Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost.
 Input Format-
@@ -9,7 +9,7 @@ The third line has an integer,taxPercent(the percentage of mealCost being added 
 Output Format-
 Print the total meal cost, where totalCost is the rounded integer result of the entire bill (mealCost with added tax and tip)
 //Language Used: Java
-//------------------------------------------------------------------------------
+//------------------------------------------------------------------------------ */
 
 import java.io.*;
 import java.math.*;
